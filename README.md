@@ -15,7 +15,7 @@ pnpm dev
 bun dev
 ```
 
-#Requirements:
+## Requirements:
 
 - All reusable components should be placed in the components/ folder.
 - The website must be fully responsive across devices.
